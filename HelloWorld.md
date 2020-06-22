@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Untitled"
 author: "Arun"
@@ -28,3 +29,6 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+=======
+## This is a markdown file
+>>>>>>> 195e58270fbcb41da28c6e8602bc22fa0037994f
